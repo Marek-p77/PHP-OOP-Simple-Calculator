@@ -1,4 +1,4 @@
-# 📟 PHP OOP Calculator v1.0
+# 📟 PHP OOP Simple Calculator v1.0
 
 ### 📄 Popis
 
